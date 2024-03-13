@@ -167,6 +167,7 @@
       "label": "docker-run: debug",
       "dependsOn": ["docker-build: debug"],
       "dockerRun": {
+        // "remove": true,
         "envFiles": ["${workspaceFolder}/.localConfigs"],
         "ports": [
           {

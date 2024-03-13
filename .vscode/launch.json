@@ -70,7 +70,8 @@
       "presentation": {
         "group": "all",
         "order": 2
-      }
+      },
+      "stopAll": true
     },
     {
       "name": "Debug in Docker (Chrome)",
