@@ -15,12 +15,12 @@
         "outline": "outline.png"
     },
     "name": {
-        "short": "zhijieapp03120${{APP_NAME_SUFFIX}}",
-        "full": "full name for zhijieapp03120"
+        "short": "chataibot${{APP_NAME_SUFFIX}}",
+        "full": "full name for chataibot"
     },
     "description": {
-        "short": "short description for zhijieapp03120",
-        "full": "full description for zhijieapp03120"
+        "short": "short description for chataibot",
+        "full": "full description for chataibot"
     },
     "accentColor": "#FFFFFF",
     "bots": [

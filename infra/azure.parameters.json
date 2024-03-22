@@ -18,7 +18,7 @@
       "value": "${{SECRET_AZURE_OPENAI_ENDPOINT}}"
     },
     "botDisplayName": {
-      "value": "zhijieapp03120"
+      "value": "chataibot"
     }
   }
 }
